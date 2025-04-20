@@ -22,7 +22,7 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
-.installed.cfg
+.in Installed.cfg
 *.egg
 MANIFEST
 
@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Streamlit secrets
+.streamlit/secrets.toml
+.env

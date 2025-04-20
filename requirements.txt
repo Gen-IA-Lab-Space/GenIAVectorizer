@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-astradb
+langchain-huggingface
+langchain-community
+pypdf
+unstructured
+sentence_transformers
